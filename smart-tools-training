@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>تدريب الموظفين على الأدوات الذكية</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #0077b6;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+    }
+    .tools {
+      background: #fff;
+      padding: 15px;
+      margin: 10px 0;
+      border-radius: 8px;
+      box-shadow: 0 0 5px #ccc;
+    }
+    footer {
+      background: #0077b6;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>تدريب الموظفين على الأدوات الذكية</h1>
+    <p>نحو عمل أكثر إنتاجية وكفاءة</p>
+  </header>
+
+  <section>
+    <h2>مقدمة</h2>
+    <p>يهدف هذا الموقع إلى تدريب الموظفين على استخدام الأدوات الذكية لتحسين بيئة العمل وزيادة الإنتاجية.</p>
+
+    <h2>أهم الأدوات الذكية</h2>
+    <div class="tools">
+      <h3>Google Workspace</h3>
+      <p>تعلم استخدام Gmail، Google Drive، Google Meet وغيرها.</p>
+    </div>
+    <div class="tools">
+      <h3>Microsoft Teams</h3>
+      <p>التعاون عبر المحادثات والاجتماعات ومشاركة الملفات.</p>
+    </div>
+    <div class="tools">
+      <h3>أدوات الذكاء الاصطناعي</h3>
+      <p>مثل ChatGPT، Notion AI، وغيرها لأداء المهام بسرعة وذكاء.</p>
+    </div>
+
+    <h2>روابط تدريبية</h2>
+    <ul>
+      <li><a href="https://workspace.google.com/learning-center/" target="_blank">مركز تعليم Google Workspace</a></li>
+      <li><a href="https://support.microsoft.com/ar-sa/teams" target="_blank">دليل Microsoft Teams</a></li>
+    </ul>
+
+    <h2>تواصل معنا</h2>
+    <form>
+      <label>الاسم:</label><br>
+      <input type="text" name="name"><br><br>
+      <label>البريد الإلكتروني:</label><br>
+      <input type="email" name="email"><br><br>
+      <label>رسالتك:</label><br>
+      <textarea name="message" rows="4" cols="40"></textarea><br><br>
+      <button type="submit">إرسال</button>
+    </form>
+  </section>
+
+  <footer>
+    &copy; 2025 مركز تدريب الموظفين - جميع الحقوق محفوظة
+  </footer>
+
+</body>
+</html>
